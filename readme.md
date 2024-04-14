@@ -7,11 +7,16 @@ After Cloning it -
 on terminal/command prompt navigate to the cloned folder  using `cd` command 
 
 Then Type this command to install all dependencies- 
+```bash
 npm -i -g
+```
+
 
 then do type after installing - 
 
+```bash
 node index.js
+```
 
 then Ready to go -
 
@@ -35,3 +40,8 @@ Commands:
 ![alt text](./img/image-1.png)
 ![alt text](./img/image-2.png)
 ![alt text](./img/image-3.png)
+
+SUB TO YT - https://www.youtube.com/channel/UCP7P7_DkLJd50q53mJ5f9AA
+
+
+<h1>Made with ❤ Vansh Code Works</h1>
