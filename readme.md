@@ -8,7 +8,7 @@ on terminal/command prompt navigate to the cloned folder  using `cd` command
 
 Then Type this command to install all dependencies- 
 ```bash
-npm -i -g
+npm i -g
 ```
 
 
